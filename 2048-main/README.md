@@ -29,4 +29,4 @@ A classic 2048 puzzle game built using **HTML**, **CSS**, and **JavaScript** —
 ---
 
 Deployment Link: 
-[Live Link](https://ahamed1846.github.io/2048/)
+[Live Link](https://hamshas2048.netlify.app/)
